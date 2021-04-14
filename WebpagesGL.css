@@ -12,10 +12,11 @@ p {
 	color: #FFFFFF:
 }
 
-.class {
-    property: value;
+#photo-resize {
+    max-width: 250px ;
+	max-height: 300px ;
 }
 
-#id {
-    property:value;
+#table-border {
+    border: 1px solid #FFFFFF;
 }
